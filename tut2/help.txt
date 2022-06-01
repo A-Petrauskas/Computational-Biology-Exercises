@@ -1,0 +1,20 @@
+3 part: cut and paste from the website
+
+wunch: first row and first column they are zeros
+
+wunch: built up table (matrix) (fmap wiki) -> alignment alorithm, u start at the 
+bottom right corner -> which one is the first one (whether it was equal to the cost to get there)
+Could be more than one alighment (2 optional)
+
+Group 1-5 recording!!!
+
+????Are we able to find out if we got SALPQPTTPVSSFTSGSMLGRTDTALTNTYSAL & PSPTMEAVTSVEASTASHPHSTSSYFATTYYHLY correct without working it though manually???
+
+search protein in NCBI protein database find more information about this
+
+Q5!! Draw what a viterbi algorithm gives u anotate the sequence and see which..
+Discrete plot y axis - one state (at reach sigi reach?) x axis - 
+
+Ask Frixos Papadopoulos!!! nice guy
+
+RECORDING !!!!
